@@ -1,5 +1,7 @@
 This is a blog application built with React and Material UI that shows weather info and recommends events like restaurants, concerts, and sports based on your location and weather.
 Features are:
+
+
     Users asked to login first to view the blog:
     Different kinds of users:admin can disbale and enable any user
     a user can write and comment at any post and also they can subscribe or unsubscribe to any topic.
